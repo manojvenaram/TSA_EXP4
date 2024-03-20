@@ -1,7 +1,4 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
-
-
 
 ### AIM:
 To implement ARMA model in python.
@@ -60,13 +57,17 @@ plt.show()
 plot_acf(ARMA_2)
 plot_pacf(ARMA_2)
 ```
-OUTPUT:
-![image](https://github.com/manojvenaram/TSA_EXP4/assets/94165064/1915dec6-810e-443b-a8d2-edf04d90ef0f)
-![image](https://github.com/manojvenaram/TSA_EXP4/assets/94165064/529de11f-a6e6-4c33-93c7-5e588fe2ce08)
-![image](https://github.com/manojvenaram/TSA_EXP4/assets/94165064/feee07f2-112d-425a-896d-894f23407c44)
-![image](https://github.com/manojvenaram/TSA_EXP4/assets/94165064/aa383e39-0207-4c2c-98c5-1a7087727c78)
-![image](https://github.com/manojvenaram/TSA_EXP4/assets/94165064/10e02684-4e92-4f37-8b55-c636ec5c91b0)
+
+## OUTPUT:
+![image](https://github.com/Nivetham1710/TSA_EXP4/assets/94155183/0db69bc4-9cb4-4e67-9c73-cc35a59ddedd)
+
+![image](https://github.com/Nivetham1710/TSA_EXP4/assets/94155183/14dd69f9-5ec9-4c25-8820-ff927778f48f)
+![image](https://github.com/Nivetham1710/TSA_EXP4/assets/94155183/57c65607-9103-426f-b271-9b6497c9df44)
+
+![image](https://github.com/Nivetham1710/TSA_EXP4/assets/94155183/5d9d0057-4881-4f44-900d-b912fe72891c)
+
+![image](https://github.com/Nivetham1710/TSA_EXP4/assets/94155183/daaf27b7-6430-4163-b781-25a692adbd8b)
 
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
